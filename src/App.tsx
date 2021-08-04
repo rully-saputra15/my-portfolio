@@ -1,24 +1,22 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import DashboardContainer from "./Container/DashboardContainer";
+import TopMenuContainer from "./Container/TopMenuContainer";
+import { Switch, Route } from "react-router";
+import PortfolioContainer from "./Container/PortfolioContainer";
+import { BrowserRouter } from "react-router-dom";
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <BrowserRouter>
+        <TopMenuContainer/>
+        <Switch>
+          <Route exact path="/" component={DashboardContainer}/>
+          <Route exact path="/portfolio" component={PortfolioContainer}/>
+        </Switch>
+      </BrowserRouter>
+
     </div>
   );
 }

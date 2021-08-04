@@ -1,0 +1,92 @@
+.main-container-icon{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.single-icon-wrapper{
+    padding:16px;
+}
+.icon-html{
+    color: orange;
+
+}
+.icon-css{
+    color: dodgerblue;
+
+}
+.icon-typescript{
+    color: dodgerblue;
+
+}
+.icon-laravel{
+    color: palevioletred;
+
+}
+.icon-firebase{
+    color: orange;
+
+}
+.icon-tensorflow{
+    color: darkorange;
+
+}
+.icon-mysql{
+
+}
+.icon-python{
+
+}
+.icon-ionic{
+    color: lightblue;
+
+}
+
+.icon-react{
+    color: lightblue;
+
+}
+.icon-flutter{
+    color: dodgerblue;
+
+}
+.icon-html,
+.icon-css,
+.icon-typescript,
+.icon-laravel,
+.icon-firebase,
+.icon-tensorflow,
+.icon-mysql,
+.icon-python,
+.icon-ionic,
+.icon-react,
+.icon-flutter{
+
+}
+
+.icon-animation{
+    transform: scale(1);
+    transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.icon-animation:hover{
+    transform: scale(1.54);
+}
+.grid-all-skill{
+    margin: 0 32px !important;
+}
+
+@keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
