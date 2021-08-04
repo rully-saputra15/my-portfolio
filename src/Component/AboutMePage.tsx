@@ -13,11 +13,11 @@ const AboutMePage = () => {
         <p className="paragraph-about-me">I'm a passionate programmer who
           uses the programming language to
           solve any problems. Develop a
-          program not just make it works, but it
+          software not just make it works, but it
           must have scalability and efficiency. I
           love learning new technology
           because I need to stay update and
-          develop a better program.
+          develop a better software.
           Stay Hungry, Stay Foolish
           -Steve Jobs</p>
       </div>
