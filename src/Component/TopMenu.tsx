@@ -1,13 +1,11 @@
 import React from 'react'
 import './TopMenu.css'
-
-interface TopMenuComponentInterface {
+interface TopMenuComponentInterface{
   goToHome: () => void;
   goToPortfolio: () => void;
 }
-
-const TopMenu: React.FC<TopMenuComponentInterface> = (props) => {
-  return (
+const TopMenu:React.FC<TopMenuComponentInterface> = (props) => {
+  return(
     <div className="main-top-menu-container">
       <div className="top-menu-wrapper">
         <span className="top-menu-title">

@@ -35,6 +35,7 @@
     color: white;
     font-family: 'Lato Black', sans-serif;
     transition: color 0.5s ease-in-out, box-shadow 0.5s ease-in-out;
+
 }
 
 .top-menu-item:hover {
