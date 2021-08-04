@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.dcc8e0b1.chunk.css",
-    "main.js": "/my-portfolio/static/js/main.275c60b3.chunk.js",
-    "main.js.map": "/my-portfolio/static/js/main.275c60b3.chunk.js.map",
+    "main.css": "/my-portfolio/static/css/main.651092d9.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.65b0025e.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.65b0025e.chunk.js.map",
     "runtime-main.js": "/my-portfolio/static/js/runtime-main.c9dce181.js",
     "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.c9dce181.js.map",
     "static/css/2.6b560088.chunk.css": "/my-portfolio/static/css/2.6b560088.chunk.css",
-    "static/js/2.6ba13957.chunk.js": "/my-portfolio/static/js/2.6ba13957.chunk.js",
-    "static/js/2.6ba13957.chunk.js.map": "/my-portfolio/static/js/2.6ba13957.chunk.js.map",
+    "static/js/2.e9a68e65.chunk.js": "/my-portfolio/static/js/2.e9a68e65.chunk.js",
+    "static/js/2.e9a68e65.chunk.js.map": "/my-portfolio/static/js/2.e9a68e65.chunk.js.map",
     "static/js/3.76bd6c49.chunk.js": "/my-portfolio/static/js/3.76bd6c49.chunk.js",
     "static/js/3.76bd6c49.chunk.js.map": "/my-portfolio/static/js/3.76bd6c49.chunk.js.map",
     "index.html": "/my-portfolio/index.html",
     "static/css/2.6b560088.chunk.css.map": "/my-portfolio/static/css/2.6b560088.chunk.css.map",
-    "static/css/main.dcc8e0b1.chunk.css.map": "/my-portfolio/static/css/main.dcc8e0b1.chunk.css.map",
-    "static/js/2.6ba13957.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.6ba13957.chunk.js.LICENSE.txt",
+    "static/css/main.651092d9.chunk.css.map": "/my-portfolio/static/css/main.651092d9.chunk.css.map",
+    "static/js/2.e9a68e65.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.e9a68e65.chunk.js.LICENSE.txt",
     "static/media/admin ecommerce 1.04df82d7.jpg": "/my-portfolio/static/media/admin ecommerce 1.04df82d7.jpg",
     "static/media/admin ecommerce 2.cd5f1ec9.jpg": "/my-portfolio/static/media/admin ecommerce 2.cd5f1ec9.jpg",
     "static/media/admin ecommerce 3.1830a871.jpg": "/my-portfolio/static/media/admin ecommerce 3.1830a871.jpg",
@@ -50,8 +50,8 @@
   "entrypoints": [
     "static/js/runtime-main.c9dce181.js",
     "static/css/2.6b560088.chunk.css",
-    "static/js/2.6ba13957.chunk.js",
-    "static/css/main.dcc8e0b1.chunk.css",
-    "static/js/main.275c60b3.chunk.js"
+    "static/js/2.e9a68e65.chunk.js",
+    "static/css/main.651092d9.chunk.css",
+    "static/js/main.65b0025e.chunk.js"
   ]
 }
