@@ -13,7 +13,7 @@ const DashboardContainer = () => {
   const [windowsDimensions, setWindowsDimensions] = useState(getWindowDimensions());
   const [isAlerted, setIsAlerted] = useState(false);
   useEffect(() => {
-    if (windowsDimensions.width >= 480 && windowsDimensions.width <= 720 && !isAlerted) {
+    if (windowsDimensions.width >= 240 && windowsDimensions.width <= 720 && !isAlerted) {
       alert('For your best experience\nPlease open the website from desktop\nThe mobile version is under development\nSorry!')
       setIsAlerted(true)
     }
