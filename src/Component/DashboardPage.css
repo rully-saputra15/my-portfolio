@@ -34,6 +34,7 @@
     font-weight: bold;
 }
 .main-dashboard-single-span{
+    font-size:4.5vh;
     padding-bottom:4vh;
     font-family: "Lato Thin", sans-serif;
 }
@@ -42,6 +43,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
 }
 .button-group {
     display: flex !important;
