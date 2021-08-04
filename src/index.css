@@ -2,8 +2,12 @@ h1{
   font-family: 'Lato', sans-serif !important;
 }
 
+body::-webkit-scrollbar{
+  display: none;
+}
 body{
   font-family: 'Lato', sans-serif !important;
+  -ms-overflow-style: none;
   background: linear-gradient(140deg, rgba(1, 38, 144, 1) 5%, rgba(106, 195, 199, 1) 100%) fixed !important;
   color: #F6FCFC !important;
   height: 100%;
